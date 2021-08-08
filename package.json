@@ -1,6 +1,6 @@
 {
-  "name": "senaka-zenn-app",
-  "author": "ZeroOne",
+  "name": "vite-react-electron-ts",
+  "author": "Shakthi Senavirathna",
   "version": "0.0.0",
   "main": "electron/electron.ts",
   "scripts": {
