@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + React!</p>
+        <p>Hello Vite + React + Electron + Typescript!</p>
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
-            count is: {count-150}
+            count is: {count}
           </button>
         </p>
         <p>
@@ -35,6 +35,15 @@ function App() {
             rel="noopener noreferrer"
           >
             Vite Docs
+          </a>
+          {' | '}
+          <a
+            className="App-link"
+            href="https://www.electronjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Electron
           </a>
         </p>
       </header>
