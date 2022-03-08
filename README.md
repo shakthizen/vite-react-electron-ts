@@ -7,7 +7,7 @@ An easy to use template made with love ❤
 
 Use the yarn manager to install dependencies
 
-```yarn```
+`yarn`
 
 ## Usage
 
