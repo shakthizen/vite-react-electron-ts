@@ -5,11 +5,9 @@ An easy to use template made with love ❤
 
 ## Installation
 
-Use the yarn manager.
+Use the yarn manager to install dependencies
 
-```bash
-yarn
-```
+```yarn```
 
 ## Usage
 
